@@ -1,4 +1,8 @@
 # How to Think Like a Computer Scientist Exercises WIP
+Book:
+
+https://runestone.academy/runestone/books/published/thinkcspy/index.html
+
 ## Table Of Contents
 Chapter 4 Functions (Done)
 
@@ -39,5 +43,3 @@ Chapter 22 Collections of Objects
 Chapter 23 Inheritance
 
 
-Book:
-https://runestone.academy/runestone/books/published/thinkcspy/index.html
